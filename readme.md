@@ -5,8 +5,8 @@
 
 - bullets1
 - bullets 2
-1 number
-2 number
+1. number
+2. number
 
 public class name{
     public static void main(String[] args) {
